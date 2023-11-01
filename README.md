@@ -35,7 +35,7 @@ In a previous project, I explored "Determinants of early sexual initiation among
 Feel free to get in touch or connect with me through:
 
 - Email: [muthikithara@gmail.com]
-- LinkedIn: [Muthikitha Rofhiwa]
+- LinkedIn: [www.linkedin.com/in/muthikitha-rofhiwa-0518b523a]
 
 <!---
 Muthikitha/Muthikitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
