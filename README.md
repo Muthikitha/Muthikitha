@@ -28,7 +28,7 @@ I'm currently working on a project titled: "Estimation of Barrier Option Prices 
 
 ## 📚 Previous Project
 
-In a previous project, I explored "Determinants of early sexual initiation among people in South Africa" using a recursive partitioning approach. This research aimed to shed light on an important societal issue.
+In a previous project, I explored "Determinants of early sexual initiation among people in South Africa: using a recursive partitioning approach". This research aimed to shed light on an important societal issue.
 
 ## 📫 How to Reach Me
 
